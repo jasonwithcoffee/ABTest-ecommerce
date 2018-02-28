@@ -32,6 +32,6 @@ In other words, the regression model marks better and worse performance as signi
 Both the regression model and A/B Test model have p-values greater than 0.05, which suggest strong evidence for the null hypothesis.
 
 ## Files
-ab_data.csv: A/B test data
-Analyze_ab_test_results_notebook.ipynb: Jupyter notebook for investigation
+ab_data.csv: A/B test data <br>
+Analyze_ab_test_results_notebook.ipynb: Jupyter notebook for investigation <br>
 countries.csv: regional data for A/B test
